@@ -9,8 +9,5 @@ La información que hay en las imágenes es ficticia para testear todas las func
 ## Preview
 ![preview](https://github.com/WEAHub/CMoon/blob/main/preview.png)
 
-## Trades
-![trade](https://github.com/WEAHub/CMoon/blob/main/Trade.gif)
-
 ## Alertas por patreon de Muvdi
 ![patreon](https://github.com/WEAHub/CMoon/blob/main/Patreon.gif)
